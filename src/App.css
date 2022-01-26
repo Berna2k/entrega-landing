@@ -1,0 +1,6 @@
+.DivCard{
+  display: flex;
+  margin: 20px;
+  justify-content: space-between;
+  width: 100vw;
+}

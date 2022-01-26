@@ -1,0 +1,32 @@
+.navbar-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FFF2F8;
+    text-decoration: none;
+    color: #706F6F;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+    color: #706F6F;
+    font-size: 20px;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+li:hover {
+    border-bottom: 2px solid #FF4966; }

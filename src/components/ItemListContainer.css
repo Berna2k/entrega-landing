@@ -1,0 +1,17 @@
+.ItemListContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+h1{
+    color: #B50218;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h2{
+    color:green
+}
